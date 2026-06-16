@@ -1,4 +1,4 @@
-# KDD 2026｜直播间风险，藏在你没注意到的互动里
+# KDD 2026｜看见风险：直播间风险藏在你没注意到的互动里
 
 **论文**：Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms  
 **会议**：KDD 2026
@@ -158,6 +158,6 @@ AC-MIL 在 May / June 上**全面领先**：June PR-AUC **0.7311**，May 达 **0
 
 ## 系列导航
 
-- [**总稿：直播间风险研究线**](./总稿-直播间风险研究线.md) — 三篇递进：形成 → 重复 → 演化
-- [**分稿2：Deja Vu in Plots**](./分稿2-Deja-Vu-in-Plots.md) — 跨会话检索、LLM 推理、蒸馏部署
-- [**分稿3：Outsmarting the Chameleon**](./分稿3-Outsmarting-the-Chameleon.md) — 意图解耦、反事实、OOD 鲁棒
+- [**总稿：直播风控三部曲**](./总稿-直播间风险研究线.md) — 从「藏」到「抄」到「变」
+- [**分稿2：认出剧本（Deja Vu in Plots）**](./分稿2-Deja-Vu-in-Plots.md) — 跨会话检索、LLM 推理、蒸馏部署
+- [**分稿3：跟上变招（Outsmarting the Chameleon）**](./分稿3-Outsmarting-the-Chameleon.md) — 意图解耦、反事实、OOD 鲁棒

@@ -1,4 +1,4 @@
-# SIGIR 2026｜不同直播间，为什么总像「同一部风险剧本」？
+# SIGIR 2026｜认出剧本：不同直播间，为什么总像「同一部风险剧本」？
 
 **论文**：Deja Vu in Plots: Leveraging Cross-Session Evidence with Retrieval-Augmented LLMs for Live Streaming Risk Assessment  
 **会议**：SIGIR 2026
@@ -209,6 +209,6 @@ CS-VAR 在 May / June 上均为最优：PR-AUC **0.7721 / 0.7322**，较最强 M
 
 ## 系列导航
 
-- [**总稿：直播间风险研究线**](./总稿-直播间风险研究线.md) — 三篇递进：形成 → 重复 → 演化
-- [**分稿1：Live or Lie**](./分稿1-Live-or-Lie.md) — 弱监督、胶囊 MIL、可解释证据
-- [**分稿3：Outsmarting the Chameleon**](./分稿3-Outsmarting-the-Chameleon.md) — 意图解耦、反事实、OOD 鲁棒
+- [**总稿：直播风控三部曲**](./总稿-直播间风险研究线.md) — 从「藏」到「抄」到「变」
+- [**分稿1：看见风险（Live or Lie）**](./分稿1-Live-or-Lie.md) — 弱监督、胶囊 MIL、可解释证据
+- [**分稿3：跟上变招（Outsmarting the Chameleon）**](./分稿3-Outsmarting-the-Chameleon.md) — 意图解耦、反事实、OOD 鲁棒

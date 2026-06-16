@@ -1,4 +1,4 @@
-# KDD 2026｜话术天天变，直播风控怎么跟得上「变色龙」？
+# KDD 2026｜跟上变招：直播话术天天变，怎么跟得上「变色龙」？
 
 **论文**：Outsmarting the Chameleon: Counterfactual Decoupling for Tactical OOD Shifts  
 **会议**：KDD 2026
@@ -207,6 +207,6 @@ Outsmarting the Chameleon (LPCD)
 
 ## 系列导航
 
-- [**总稿：直播间风险研究线**](./总稿-直播间风险研究线.md) — 三篇递进：形成 → 重复 → 演化
-- [**分稿1：Live or Lie**](./分稿1-Live-or-Lie.md) — 弱监督、胶囊 MIL、可解释证据
-- [**分稿2：Deja Vu in Plots**](./分稿2-Deja-Vu-in-Plots.md) — 跨会话检索、LLM 推理、蒸馏部署
+- [**总稿：直播风控三部曲**](./总稿-直播间风险研究线.md) — 从「藏」到「抄」到「变」
+- [**分稿1：看见风险（Live or Lie）**](./分稿1-Live-or-Lie.md) — 弱监督、胶囊 MIL、可解释证据
+- [**分稿2：认出剧本（Deja Vu in Plots）**](./分稿2-Deja-Vu-in-Plots.md) — 跨会话检索、LLM 推理、蒸馏部署
